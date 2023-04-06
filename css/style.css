@@ -1,17 +1,17 @@
 
-   
+.container {
+    width: 60%;
+     margin-top: 8px;
+     margin-bottom: 8px;
+     background-color: aliceblue;
+     padding-bottom: 22px;
+     border-radius: 4px;
+ }
+
 
 span {
     font-weight: 700;
     font-style: italic;
-}
-.container {
-   width: 60%;
-    margin-top: 8px;
-    margin-bottom: 8px;
-    background-color: aliceblue;
-    padding-bottom: 22px;
-    border-radius: 4px;
 }
 
 
